@@ -1,0 +1,25 @@
+# 领域驱动设计精读
+
+> 12 章按「从业务复杂性到可演进模型的四段路」组织
+
+> 原 PDF：[`领域驱动设计精读.pdf`](领域驱动设计精读.pdf)（仓库根目录，可下载）
+
+## 目录
+
+- [导读（序 / 速查 / 自测）](preface.md)
+- [第1章 消化知识](ch1.md)
+- [第2章 UBIQUITOUS LANGUAGE](ch2.md)
+- [第3章 绑定模型与实现](ch3.md)
+- [第4章 分离领域与 LAYERED ARCHITECTURE](ch4.md)
+- [第5章 模型元素：ENTITY / VALUE OBJECT / SERVICE](ch5.md)
+- [第6章 领域对象的生命周期：AGGREGATE / FACTORY / REPOSITORY](ch6.md)
+- [第7章 柔性设计](ch7.md)
+- [第8章 突破、显式概念与 SPECIFICATION](ch8.md)
+- [第9章 分析模式与设计模式](ch9.md)
+- [第10章 BOUNDED CONTEXT 与 CONTEXT MAP](ch10.md)
+- [第11章 精炼：CORE DOMAIN](ch11.md)
+- [第12章 大型结构与综合运用](ch12.md)
+
+---
+
+*文字版由 Markdown 源文件按章拆分，内容以原 PDF 为准。*
